@@ -1,9 +1,9 @@
 import * as THREE from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
-import GUI from 'lil-gui'
-import { Sky } from 'three/addons/objects/Sky.js';
+// import GUI from 'lil-gui'
 import vertexShader from './Shader/vertex.glsl'
 import fragmentShader from './Shader/Fragment.glsl'
+import { Sky } from 'three/addons/objects/Sky.js';
 import gsap from 'gsap'
 
 
