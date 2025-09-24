@@ -11,7 +11,6 @@ import gsap from 'gsap'
  * Base
  */
 // Debug
-// const gui = new GUI({ width: 340 })
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
